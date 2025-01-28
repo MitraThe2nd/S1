@@ -1,4 +1,4 @@
-rpc_url: "http://127.0.0.1:5445"
-wallets:
+rpc_endpoint: "http://127.0.0.1:5445"
+account_list:
   - "ZSGB0hsmZQwiWnX9YtN1ah1qIsVVgLHbSAA3o2lUFKYR"
   - "8QempIiFEzm7dhTGR2j3GUMobz6OOVjmiKQHGxyMa2IH"
